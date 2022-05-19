@@ -30,7 +30,7 @@ twitter_username: eclipse842
 github_username: UnknownEclipse
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
     - jekyll-feed
 # Exclude from processing.
