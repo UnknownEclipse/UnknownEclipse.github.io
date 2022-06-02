@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dissecting Chernobyl"
+title: "Chernobyl"
 date: 2022-05-20 10:21:48 -0700
 categories: jekyll update
 ---
