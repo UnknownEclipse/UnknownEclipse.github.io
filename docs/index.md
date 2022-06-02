@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-## Welcome to Benjamin's Blog!
